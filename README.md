@@ -4,7 +4,7 @@
 
 ---
 
-## 🧭 ¿Qué es ChincoLinux?
+## ¿Qué es ChincoLinux?
 
 ChincoLinux nace con la intención de convertirse en una herramienta educativa integral. Incluye software clave para el desarrollo de habilidades tecnológicas, científicas y humanistas, además del **programa educativo oficial del MINEDUC** y los **libros de texto** correspondientes a cada materia.
 
