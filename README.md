@@ -1,4 +1,4 @@
-![ChincoLinux Banner](./assets/chincolinux-banner.png)
+![ChincoLinux Banner](./assets/chincolinux.png)
 
 # ChincoLinux
 
