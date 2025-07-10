@@ -1,4 +1,4 @@
-# ChincoLinux
+# 🐦 ChincoLinux
 
 **ChincoLinux** es una distribución Linux basada en Debian, diseñada especialmente para el ámbito educativo chileno. Su objetivo principal es proporcionar un entorno libre, accesible y amigable tanto para estudiantes de enseñanza básica y media como para docentes, fomentando el uso de tecnologías abiertas en el aprendizaje.
 
@@ -67,5 +67,11 @@ Este proyecto está abierto a colaboración. Si tienes experiencia con:
 Si quieres colaborar, aportar ideas o simplemente saber más, no dudes en abrir un issue o contactar directamente a [Daniel Ugalde](https://github.com/Daniel-um8).
 
 ---
+
+## 📝 Licencia
+
+ChincoLinux se distribuye bajo la [Licencia Pública General de GNU v3.0](https://www.gnu.org/licenses/gpl-3.0.html).  
+Esto garantiza que puedas usar, estudiar, modificar y compartir este software libremente.
+
 
 ## 🕊️ Software libre para un aprendizaje libre
