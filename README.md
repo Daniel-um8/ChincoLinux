@@ -1,6 +1,37 @@
 ![ChincoLinux Banner](./assets/chincolinux.png)
 
+![Versión Alfa](https://img.shields.io/badge/Versión-Alfa-blue)
+![Basado en Debian](https://img.shields.io/badge/Base-Debian-green)
+![Licencia GPLv3](https://img.shields.io/badge/Licencia-GPLv3-brightgreen)
+
 **ChincoLinux** es una distribución Linux basada en Debian, diseñada especialmente para el ámbito educativo chileno. Su objetivo principal es proporcionar un entorno libre, accesible y amigable tanto para estudiantes de enseñanza básica y media como para docentes, fomentando el uso de tecnologías abiertas en el aprendizaje.
+
+---
+
+## ⬇️ Descarga
+
+Ya puedes descargar la primera versión de prueba de ChincoLinux:
+
+🔗 **[Descargar ISO - Versión Alfa](https://github.com/Daniel-um8/ChincoLinux/releases/tag/v1.0-alpha)**
+
+📁 Tamaño aproximado: 1.4 GB  
+💿 Requiere un pendrive de al menos 4 GB para su instalación en vivo (Live USB)
+
+> ⚠️ Esta es una versión de prueba (alfa). Puede contener errores y está en constante desarrollo.
+
+---
+
+## 🧪 Cómo probar ChincoLinux
+
+Puedes usar ChincoLinux directamente desde un pendrive sin necesidad de instalarlo.
+
+### 🔥 Método recomendado (Live USB):
+
+1. Descarga la `.iso` desde la sección anterior
+2. Usa [Rufus](https://rufus.ie/es/) (Windows) o `balenaEtcher` (Linux/macOS) para grabarla en un pendrive
+3. Reinicia tu computador y arranca desde el pendrive (Boot desde USB)
+
+💡 También puedes probarla en una máquina virtual como **VirtualBox**, **VMware** o **GNOME Boxes**.
 
 ---
 
@@ -45,8 +76,10 @@ El nombre **ChincoLinux** hace referencia al **chincol**, un pequeño y típico 
 
 ## 🚀 Estado del proyecto
 
-> 🛠️ ChincoLinux aún se encuentra en etapa inicial de desarrollo.  
-> ¡Pronto se publicará la primera ISO con una versión alfa del sistema!
+✅ Primera imagen `.iso` generada con éxito (Versión Alfa)  
+🛠️ Actualmente en pruebas y mejora del entorno, contenidos y rendimiento  
+📖 Consulta el historial de versiones en el archivo [CHANGELOG.md](CHANGELOG.md)
+📥 Descarga disponible en la sección superior
 
 ---
 
@@ -73,5 +106,6 @@ Si quieres colaborar, aportar ideas o simplemente saber más, no dudes en abrir 
 ChincoLinux se distribuye bajo la [Licencia Pública General de GNU v3.0](https://www.gnu.org/licenses/gpl-3.0.html).  
 Esto garantiza que puedas usar, estudiar, modificar y compartir este software libremente.
 
+---
 
 ## 🕊️ Software libre para un aprendizaje libre
