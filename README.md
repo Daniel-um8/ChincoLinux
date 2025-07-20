@@ -78,7 +78,7 @@ El nombre **ChincoLinux** hace referencia al **chincol**, un pequeño y típico 
 
 ✅ Primera imagen `.iso` generada con éxito (Versión Alfa)  
 🛠️ Actualmente en pruebas y mejora del entorno, contenidos y rendimiento  
-📖 Consulta el historial de versiones en el archivo [CHANGELOG.md](CHANGELOG.md)
+📖 Consulta el historial de versiones en el archivo [CHANGELOG.md](CHANGELOG.md)  
 📥 Descarga disponible en la sección superior
 
 ---
